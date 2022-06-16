@@ -5,11 +5,11 @@ Performing analysis on Kickstrter data to uncover trends
   - Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared on their launch dates and their funding goals. She wants to know how the theater based campaigns fared on their launch dates.
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-  - ![Outomes based on Launch date](https://user-images.githubusercontent.com/107087087/174193862-cc14e12e-43b7-43fe-8491-7705b186b511.png)  
+  - ![Outomes based on Launch date](https://user-images.githubusercontent.com/107087087/174195000-95824739-8d82-4db1-bae3-279fe27a9a3b.png)  
   - Theater based launches had the highest and successful launch dates in the Month of April and June year in year out.
   - She saw a 61% success vs a 36% failure rate on meeting her launch dates throughout the year.
 ### Analysis of Outcome Based on Goals
-  - ![Outcomes based on Goals](https://user-images.githubusercontent.com/107087087/174194006-524d8ee8-1028-49eb-805c-89be4478844f.png)
+  - ![Outcomes based on Goals](https://user-images.githubusercontent.com/107087087/174195042-9f5ee25b-c316-48f9-b51d-1a3d3a042a8b.png)
   - She saw a lot of success when the $ goals were less, and continued to decline was the goal for more dollars increased.
   - She also saw fewer cancellations when the dollar goal was low. 
   - She witnessed more failure as the goal to increase the dollar goal progressed.
